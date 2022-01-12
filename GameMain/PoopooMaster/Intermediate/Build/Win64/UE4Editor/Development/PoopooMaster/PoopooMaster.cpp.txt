@@ -1,0 +1,2 @@
+C:\Users\mattb\Documents\GitHub\Poopoo-Test\GameMain\PoopooMaster\Intermediate\Build\Win64\UE4Editor\Development\PoopooMaster\Definitions.PoopooMaster.h
+C:\Users\mattb\Documents\GitHub\Poopoo-Test\GameMain\PoopooMaster\Source\PoopooMaster\PoopooMaster.h

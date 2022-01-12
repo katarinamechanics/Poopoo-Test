@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PoopooMaster.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{CC86334F-5B76-4E83-A4AE-69CD93F689E2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PoopooMaster.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PoopooMasterEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{5BBF3C8E-D383-4C31-B7D2-C2D1F886A44C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGameplayTags.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PoopooMaster">
+      <UniqueIdentifier>{46E908F2-4ECB-4E65-AA5F-AD9B65290930}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PoopooMaster\PoopooMaster.Build.cs">
+      <Filter>Source\PoopooMaster</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PoopooMaster\PoopooMaster.cpp">
+      <Filter>Source\PoopooMaster</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PoopooMaster\PoopooMaster.h">
+      <Filter>Source\PoopooMaster</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
