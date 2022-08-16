@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\mattb\\documents\\github\\poopoo-test\\gamemain\\poopoomaster 5.0 - 2\\source\\poopoomaster\\poopoomaster.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\mattb\\documents\\github\\poopoo-test\\gamemain\\poopoomaster 5.0 - 2\\intermediate\\build\\win64\\poopoomastereditor\\development\\engine\\sharedpch.engine.h.pch",
+        "Includes": [
+            "c:\\users\\mattb\\documents\\github\\poopoo-test\\gamemain\\poopoomaster 5.0 - 2\\intermediate\\build\\win64\\unrealeditor\\development\\poopoomaster\\definitions.poopoomaster.h",
+            "c:\\users\\mattb\\documents\\github\\poopoo-test\\gamemain\\poopoomaster 5.0 - 2\\source\\poopoomaster\\poopoomaster.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

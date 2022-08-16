@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PoopooMaster.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\mattb\Documents\GitHub\Poopoo-Test\GameMain\PoopooMaster 5.0 - 2\Intermediate\Build\Win64\PoopooMasterEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\mattb\Documents\GitHub\Poopoo-Test\GameMain\PoopooMaster 5.0 - 2\Intermediate\Build\Win64\UnrealEditor\Development\PoopooMaster\PoopooMaster.cpp.obj"
+"C:\Users\mattb\Documents\GitHub\Poopoo-Test\GameMain\PoopooMaster 5.0 - 2\Intermediate\Build\Win64\UnrealEditor\Development\PoopooMaster\Default.rc2.res"
+/OUT:"C:\Users\mattb\Documents\GitHub\Poopoo-Test\GameMain\PoopooMaster 5.0 - 2\Intermediate\Build\Win64\UnrealEditor\Development\PoopooMaster\UnrealEditor-PoopooMaster.lib"
